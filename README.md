@@ -1,6 +1,6 @@
 # protocols-microb-ecol #
 
-**This is no longer maintained. Instead, please visit our page on [www.protocols.io](https://www.protocols.io/workspaces/sowa-ri-anaerobic-and-molecular-microbiology-public)
+**This is no longer maintained. Instead, please visit our page on [www.protocols.io](https://www.protocols.io/workspaces/sowa-ri-anaerobic-and-molecular-microbiology-public)**
 ## My personal collection of experimental protocols in microbial ecology ##
 This is a collection of method protocols in microbial ecology and associated methods which I have collected/developed over the years. 
 Each protocol states which paper should be cited. Please cite the reference which appears in the protocol and not the protocol itself or this project.
